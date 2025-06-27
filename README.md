@@ -9,7 +9,7 @@ AI, 데이터 분석, LLM, RAG 분야에 관심이 많으며, 팀 프로젝트�
 
 | 프로젝트명 | 설명 | 링크 |
 |------------|------|------|
-| **Team BIoTy - Planty** | 반려식물과 함께하는 힐링 IoT 공간 구축 프로젝트 🌱 | [🔗 GitHub 링크](https://github.com/minyujin03/Team-BIoTy) |
+| **Team BIoTy - Planty** | 반려식물과 함께하는 힐링 IoT 공간 구축 프로젝트 🌱 | [🔗 GitHub 링크](https://github.com/Team-BIoTy) |
 | **YOLO 기반 이상행동 감지 앱** | 임베디드 시스템 기말 프로젝트: 스마트 무인 매장 감시 시스템 | [🔗 GitHub 링크](https://github.com/embedded-final-project-group-A) |
 | **AUTO-EDA** | 자동화된 탐색적 데이터 분석(EDA) 도구 개발 | [🔗 GitHub 링크](https://github.com/yrc00/auto-eda) |
 
